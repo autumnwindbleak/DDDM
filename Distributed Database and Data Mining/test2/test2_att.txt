@@ -1,0 +1,10 @@
+A1	AGE
+A2	WORKCLASS	Class of the work
+A3	EDU	Education level
+A4	STATUS	Marital status
+A5	OCCUPATION
+A6	RELATION	The family relations
+A7	RACE
+A8	SEX
+A9	CAPGAIN	Capital gain annually
+A10	WORKHOUR	Work hour per week

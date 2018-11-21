@@ -1,0 +1,4 @@
+A1	PNO	Credit amount
+A2	PNAME	Credit purpose
+A3	BUDGET	Age
+A4	LOC	Savings account

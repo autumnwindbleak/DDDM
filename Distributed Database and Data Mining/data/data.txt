@@ -1,0 +1,6 @@
+0 i love data mining
+1 you love data mining
+2 he loves data mining
+3 i love data
+4 i love data mining
+5 i love mining

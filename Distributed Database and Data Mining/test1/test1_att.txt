@@ -1,0 +1,4 @@
+A1	CAMOUNT	Credit amount
+A2	CPURPOSE	Credit purpose
+A3	AGE	Age
+A4	SAVING	Savings account
